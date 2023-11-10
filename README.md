@@ -1,1 +1,1 @@
-# Stopwatch
+Stopwatch criado a partir do curso do Balta
